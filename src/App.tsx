@@ -144,7 +144,7 @@ export default function App() {
               <Group gap="xs">
                 <IconDroplet size={26} color="#e03131" />
                 <div>
-                  <Title order={4} style={{ lineHeight: 1 }}>Đo Tiểu Đường</Title>
+                  <Title order={4} style={{ lineHeight: 1 }}>Đo Đường Huyết</Title>
                   <Text size="xs" c="dimmed">{FIXED_NAME}</Text>
                 </div>
               </Group>
